@@ -667,15 +667,19 @@ body {
 		}
 
 			.image.main img {
-				width: 275px;
-				height: 200px;
+				
+				width: 900px;
+				height: 300px;
 			}
+
+
 		.center {
 			text-align: center;
 		}
 
 		.center img {
-			width: 275px;
+			border-radius: 50%;
+			width: 200px;
 			height: 200px;
 		}
 		@media screen and (max-width: 736px) {
