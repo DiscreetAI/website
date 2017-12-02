@@ -8,6 +8,9 @@
 */
 
 /* Reset */
+	#demo {
+		text-align: center;
+	}
 
 	.video {
 		margin-bottom: 25px;
