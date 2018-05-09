@@ -675,7 +675,7 @@ body {
 		}
 
 			.image.main img {
-				
+
 				width: 900px;
 				height: 300px;
 			}
@@ -1616,3 +1616,8 @@ body {
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+
+.team-box {
+	margin-bottom: 30px;
+}
